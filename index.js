@@ -17,6 +17,6 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(number) {
   var crazyFan = [];
-  do { console.log("I love the Beatles!");
+  do { crazyFan.push("I love the Beatles!");
 } while 
 }
