@@ -20,4 +20,3 @@ function iLoveTheBeatles(number) {
 }
   do { crazyFan.push("I love the Beatles!");
 } while (number < 15; number++);
-}
