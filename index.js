@@ -10,6 +10,7 @@ function johnLennonFacts(facts) {
   var allTheFacts =[]
   let i = 0;
   while (i < facts.length) {
-    allTheFacts.push()
+    allTheFacts.push(facts[i] + !!!)
   }
+  console.log(allTheFacts)
 }
