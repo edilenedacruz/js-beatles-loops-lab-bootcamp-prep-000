@@ -12,5 +12,5 @@ function johnLennonFacts(facts) {
   while (i < facts.length) {
     allTheFacts.push(facts[i] + !!!)
   }
-  console.log(allTheFacts)
+  return allTheFacts
 }
